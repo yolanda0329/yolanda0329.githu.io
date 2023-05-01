@@ -1,0 +1,100 @@
+#link {
+    background-color: rgb(228, 185, 245);
+    height: 70vh;
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+    margin-top: 8%;
+    border:solid 2px;
+    border-color: rgb(134, 83, 182);
+}
+body {
+    background-color: rgb(204, 160, 240);
+    margin-left: 2%;
+}
+#titulo {
+    text-align: center;
+}
+#visual {
+    height: 10%;
+    width: 10%;
+}
+#flecha {
+    height: 70px;
+    width: 70px;
+
+}
+#imagen {
+    height: 10%;
+    width: 10%;
+}
+#boton {
+    height: 25vh;
+    width: 100%;
+}
+#imagen2 {
+    margin-left: 14%;
+}
+#imagen3 {
+    margin-left: 6%;
+}
+#tabla1 {
+    border: solid 1px;
+    width:45%;
+    border-collapse:collapse 
+}
+#tabla1 tr, td {
+    border: solid 1px
+}
+
+#fila1 {
+    text-align: center;
+}
+#imagen3 {
+    height: 5%;
+    width: 10%;
+}
+#re {color: rgb(253, 9, 9);}
+#dir {color:blue;
+    font-size:25px
+}
+#tres {color:rgb(255, 0, 179)}
+
+#r1{ background-color: rgb(100, 212, 218);}
+#r2{ background-color: rgb(199, 119, 231);}
+#r3{ background-color: rgb(156, 248, 152);}
+#imagen4 {margin-left: 30%;}
+#c1{ background-color: rgb(143, 233, 238);}
+#c2{ background-color: rgb(128, 231, 119);}
+#c3{ background-color: rgb(226, 228, 121);}
+#c4{ background-color: rgb(247, 153, 125);}
+#c5{ background-color: rgb(253, 120, 120);}
+#c6{ background-color: rgb(247, 125, 176);}
+#co1{background-color: aliceblue;}
+#co2{background-color: rgb(194, 194, 194);}
+#co3{background-color: rgb(182, 182, 182);}
+#co4{background-color: rgb(238, 218, 108);}
+#co5{background-color:gold;}
+#co6{background-color: rgb(240, 143, 95)}
+#c7{ background-color: rgb(238, 95, 95);}
+#c8{ background-color: rgb(151, 144, 255);}
+#c9{ background-color: rgb(84, 143, 253);}
+#c10{ background-color: indigo;
+color: aliceblue;}
+#c11{ background-color: rgb(172, 252, 69);}
+#c12{ background-color: rgb(43, 41, 40);
+color: white;}
+#icono {
+    height: 70px;
+    width: 80px;
+   margin-left: 35%;
+}
+p {
+    text-align: justify;
+}
+#sub {
+    text-align: center;
+}
+#cuadro {
+    border:solid 1,5px;
+}
